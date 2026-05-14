@@ -1,0 +1,3 @@
+HR: hr@company.com
+IT: support@company.com
+Finance: finance@company.com
